@@ -99,6 +99,7 @@ input{
   width: 30%;
   height: 20%;
   cursor: pointer;
+  color: #ff0000;
 }
 
 .recipe-link:hover{
